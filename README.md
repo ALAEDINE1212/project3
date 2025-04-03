@@ -11,7 +11,7 @@ This repository implements an end-to-end data science pipeline that combines mac
 - **FIFA Player Stats** (for condition classification)
 
 **Key Components:**
-- **Emotion Recognition:** Process facial expressions from PDF images.
+
 - **Player Performance Prediction:** Predict ratings and market values using Linear Regression, Random Forest, and SVR.
 - **Player Condition Classification:** Categorize players into conditions (super, good, normal, bad, awful) with an SVM model.
 - **Sentiment Analysis:** Analyze text sentiment with VADER, focusing on Reddit discussions about players.
